@@ -10,4 +10,6 @@ Simple images, markup and hyperlinks. The medium is the message.
 
 .. toctree::
    :maxdepth: 2
-   pages/transmission
+   :caption: Contents:
+
+   ./pages/transmission

@@ -1,2 +1,3 @@
 sphinx
 tibas-tt
+sphinxcontrib-youtube
