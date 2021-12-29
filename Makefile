@@ -4,7 +4,7 @@ in_venv=.venv/bin/activate
 
 .PHONY: default
 default: .venv
-	. $(in_venv); sphinx-build -b html source build
+	. $(in_venv); sphinx-build -b html source docs
 
 
 .PHONY: view
@@ -17,4 +17,4 @@ view:
 	. $(in_venv); pip3 install -r requirements.txt
 
 clean:
-	rm -Rf .venv/
+	rm -Rf build/ .venv/
