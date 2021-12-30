@@ -11,7 +11,7 @@ Mirror neutrons seem a closer match
 
 We have emotions thought of as unconscious, or deeper than conscious constructs and foundations
 
-The mirror can be the mimic, the memory, the overwrought defensive model that embeds nuerosis
+The mirror can be the mimic, the memory, harmonious and engaged. Or the overwrought defensive model that embeds nuerosis, fight, flight, freeze.
 
 The layer in between the stable and the varying
 
