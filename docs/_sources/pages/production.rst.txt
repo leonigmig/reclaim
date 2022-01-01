@@ -45,6 +45,8 @@ FSOL Sample sources
 White noise and ambience
 ************************
 
+..  youtube:: 8myYyMg1fFE
+
 Ed Rush and Optical on bass
 ***************************
 
