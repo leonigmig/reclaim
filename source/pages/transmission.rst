@@ -54,25 +54,14 @@ Conceptions of time as a linear construct predominate today.
 
 .. image:: /_static/linear_time.webp
 
-Developed  from monotheistic religoin with the  idea of  a  history of  salvation  
-as  a process directed into the future. This process reaches its goal in the appearance 
-of the Messiah or in the Parousia of the  Lord: then, indeed, time itself 
-will end  again (Achtner  et  al.,  1998).  However,  the linear  conception 
-of time finds its  actual  shape  in  the scientific-technological advances 
-of  modernity:  in  the  first  place,  human  cultural  products,  from  the 
-mechanical  clock  in  the  fourteenth  century  to  the  continually 
-accelerated  means  of  transportation  in  the  nineteenth  and  twentieth 
-centuries,  create  and  establish  the  idea  of  time  as  a  continually 
-progressive  flow  in close  connection  with Newtonian  physics (Elias, 
-2007). Here, time was  conceived as an homogeneous, steadily quanti-
-fiable  arrow  of  time.  On  this  arrow,  each  event  can  only  hold  one 
-irreversibly  passing  position;  for  time  itself  runs  on  and  does  not 
-return. But this linear, homogeneous time, abstracted from all concrete 
-processes,  does  not  show  itself  in  the  natural  world  pre-given  to 
-humans  —  here  we  encounter  initially  only  cyclical,  recurring,  or 
-finalizing prossesses.  Rather, the linear  concept of time  was first con-
-structed in  the  cultural world  shaped by  man and  then  transferred to 
-cosmic processes. 
+Developed  from monotheistic religions with the  idea of salvation  
+as a process directed into the future. 
+
+The linear  conception of time finds shape  in  the scientific-technological advances 
+of  modernity. The spring wound mechanical  clock  in  the  fourteenth  century.
+
+Newtonian  physics establishes time as a quantifiable  arrow  of  time.  Time  
+itself  runs  on  and  does  not return. 
 
 However, notions of non-linear (periodic or cycical) time remain:
 
