@@ -5,7 +5,7 @@ Retro futuristic implementation of Internet identity as a transmission system.
 
 Simple images, markup and hyperlinks. The medium is the message.
 
-.. image:: /_static/moar-dipoles.png
+.. image:: /_static/waterfall.png
 
 
 .. toctree::
