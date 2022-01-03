@@ -2,10 +2,6 @@
 Open-ended consciousness
 ************************
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
 Minimalism
 ==========
 
