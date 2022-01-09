@@ -2,20 +2,18 @@
 Conceptions of time
 *******************
 
-Conceptions of time as a linear construct predominate today.
+The linear conception of time dominates the modern world. It bids us to construct it.
 
 .. image:: /_static/linear_time.webp
 
-Developed  from monotheistic religions with the  idea of salvation  
-as a process directed into the future. 
+Bronze age, monotheistic religions had the idea of salvation:
+a process directed into the future. Technology certainly works that way. The spring wound 
+mechanical clocks used in fourteenth  century were a prelude to the scientific-technological advances 
+of  modernity. Newton's  physics established time as a quantifiable  arrow. The Great Western Railway 
+syncronised railway time across England in November 1840.
 
-The linear  conception of time finds shape  in  the scientific-technological advances 
-of  modernity. The spring wound mechanical  clock  in  the  fourteenth  century.
-
-Newtonian  physics establishes time as a quantifiable  arrow  of  time.  Time  
-itself  runs  on  and  does  not return. 
-
-However, notions of non-linear (periodic or cycical) time remain:
+Today we are certain that time  itself  runs  on  and  does  not return. However, notions of non-linear 
+(periodic or cycical) time remain. The phenomenal sense of temporal continuity is periodic.
 
 .. image:: /_static/Ouroboros.png
 
@@ -25,7 +23,7 @@ However, notions of non-linear (periodic or cycical) time remain:
 * La Monte Young
 * `Gene Ray`_
 
-The phenomenal sense of temporal continuity is periodic.
+
 
 .. _Gene Ray: https://rationalwiki.org/wiki/Time_Cube
 
