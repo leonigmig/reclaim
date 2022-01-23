@@ -39,9 +39,10 @@ affect.
 
 .. image:: /_static/sync.jpg
 
+The presence in time of concious control. The sub-conscious which notices small details and defends.
 The regulator is phasic dopaminergic signaling that orients us toward novel, surprising, or uncertain stimuli. And 
 meta-monitoring processes that track our learning progress and stop us getting trapped. The illusion of 
-self-determination.
+self-determination. The invisible gold which mixes us from ourselves.
 
 
 .. _Gene Ray: https://rationalwiki.org/wiki/Time_Cube
