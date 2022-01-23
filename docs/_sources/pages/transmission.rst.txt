@@ -44,8 +44,24 @@ exercise was good for me".
 
      "Ultimately, it required a certain amount of clear thinking, a lot of hard work and good make-up to be accepted as a freak."
 
-
 ..  youtube:: OXn4mUQIJzk?t=42
+
+Recapitulation
+--------------
+
+The starting point is dystopic claustrophobia. Unrestrained technology, internet of corporate interests, attention hijack,
+disinformation, misinformation and trivia. Yet distopic claustraphobia is nothing new. The goal is not to revolutionise it. To
+follow a well trodden, but still dangerous path. But to live in a way that escapes or evades the closing in.
+
+Heighten Sensation
+------------------
+
+Repose in the sensation of sound which rests us from our intense compulsion to focus, analyse, frame, categorise, isolate. 
+Sounds which energise us live richly. Sounds which reinforce and support our emotional independence. Which build our 
+resources support our relationships with close friends and family.
+
+If one is analytic what is the other? What are it sources? Kabbalah tree of life
+    
 
 
 
