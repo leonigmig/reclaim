@@ -36,9 +36,13 @@ Escapism
 The attempt to avoid awareness of aversive beliefs. The function of escapism is a compensation for exposure to other irrational patterns of belief formation, particular in 
 so far as those belief systems would lead to dispair. 
 
-    As a child in Jamaica, Grace Jones had only one schoolfriend and was teased by classmates for her "skinny frame".
-    Moving to the US at 13 she "absolutely hated" her mother's new husband, he regularly beat her in what Jones described as "serious abuse".
-    As a young woman she immersed herself in the Counterculture of the 1960s by living in hippie communes, earning money as a go-go dancer, and using LSD and other drugs. She later praised the use of LSD as "a very important part of my emotional growth... The mental exercise was good for me".
+As a child in Jamaica, Grace Jones had only one schoolfriend and was teased by classmates for her "skinny frame". Moving to the
+US at 13 she "absolutely hated" her mother's new husband, he regularly beat her in what Jones described as "serious abuse". As
+a young woman she immersed herself in the Counterculture of the 1960s by living in hippie communes, earning money as a go-go dancer, 
+and using LSD and other drugs. She later praised the use of LSD as "a very important part of my emotional growth... The mental 
+exercise was good for me".
+
+     "Ultimately, it required a certain amount of clear thinking, a lot of hard work and good make-up to be accepted as a freak."
 
 
 ..  youtube:: OXn4mUQIJzk?t=42
