@@ -43,6 +43,15 @@ The regulator is phasic dopaminergic signaling that orients us toward novel, sur
 meta-monitoring processes that track our learning progress and stop us getting trapped. The illusion of 
 self-determination.
 
+The coming `Counterculture`_
+----------------------------
 
+People will experience so much of the material living conditions as outside their nexus of control, they 
+will start to seek other groups and cultures which promise to better fulfil their `needs`_.
+
+
+
+.. _needs: https://en.wikipedia.org/wiki/The_True_Believer
+.. _Counterculture: https://en.wikipedia.org/wiki/Timeline_of_1960s_counterculture
 .. _Gene Ray: https://rationalwiki.org/wiki/Time_Cube
 
