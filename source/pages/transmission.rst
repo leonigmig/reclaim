@@ -23,3 +23,13 @@ through a practice of deep listening, an awareness of the spatiality of sound ph
 Take some of these escapist ideas seriously
 
 .. _FSOL: http://fsolnews.blogspot.com/
+
+The coming `Counterculture`_
+----------------------------
+
+People will experience so much of the material living conditions as outside their nexus of control, they 
+will start to seek other groups and cultures which promise to better fulfil their `needs`_.
+
+
+.. _needs: https://en.wikipedia.org/wiki/The_True_Believer
+.. _Counterculture: https://en.wikipedia.org/wiki/Timeline_of_1960s_counterculture
