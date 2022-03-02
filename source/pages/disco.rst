@@ -20,8 +20,12 @@ that the music played had to be soulful, rhythmic, and impart words of hope, red
 Causal mechanisms
 -----------------
 
-Electronics convert signals into high frequency oscillating currents, and via suitably shaped conductors, electricity 
-permits the transmission and reception of these signals via radio waves over very long distances. 
+.. image:: /_static/gluon.png
+
+Electronics convert signals into high frequency oscillating currents via suitably shaped conductors, electricity 
+permits the transmission and reception of these signals via radio waves over very long distances and into people's
+homes. The signals have been stored magnetically then processed into digital information by a series of technological 
+transformations. Modern network and computing systems allow them to be reproduced in an appropraite medium on demand. 
 
 
 
