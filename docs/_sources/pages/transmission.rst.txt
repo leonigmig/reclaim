@@ -2,25 +2,23 @@
 The Coming Transmission System
 ******************************
 
-described by `FSOL`_ as the journey from millennial claustrophobia to open-ended cosmic consciousness
+Described by `FSOL`_ as the journey from millennial claustrophobia to open-ended cosmic consciousness.
 
-To me the word psychedelia relates to the natural state of a child 
+Psychedelia relates to the natural state of a child. Naive mirror neutrons captured in their 
+elemental state of awe. The mirror can be the mimic, the memory, harmonious and engaged. 
+
+The enemy of the overwrought defensive model that embeds nuerosis, fight, flight, freeze.
 
 ..  youtube:: fd8xV-WIgrE
 
-Mirror neutrons seem a closer match
+Able to speak and hear - highly evolved categories. We ourselves are simply complex disturbances of quantum fields, able 
+to emit and recieve. We have emotions thought of as unconscious, or deeper than conscious constructs and foundations. These 
+internal fields are how we tell stories to ourselves as we pass through time. 
 
-We have emotions thought of as unconscious, or deeper than conscious constructs and foundations
+Ordered reflections. Dreams and visions and emotions. The layer in between the stable and the varying. 
 
-The mirror can be the mimic, the memory, harmonious and engaged. Or the overwrought defensive model that embeds nuerosis, fight, flight, freeze.
-
-The layer in between the stable and the varying
-
-Able to speak and hear - highly evolved categories
-
-through a practice of deep listening, an awareness of the spatiality of sound phenomenon
-
-Take some of these escapist ideas seriously
+Through a practice of deep listening, an awareness of the spatiality of sound phenomenon. Take some of these escapist
+ ideas seriously.
 
 .. _FSOL: http://fsolnews.blogspot.com/
 
