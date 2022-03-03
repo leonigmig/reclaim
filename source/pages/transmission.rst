@@ -54,11 +54,14 @@ follow a well trodden, but still dangerous path. But to live in a way that escap
 Heighten Sensation
 ------------------
 
-Repose in the sensation of sound which rests us from our intense compulsion to focus, analyse, frame, categorise, isolate. 
-Sounds which energise us live richly. Sounds which reinforce and support our emotional independence. Which build our 
-resources support our relationships with close friends and family.
+Repose in the sensation that rests us from intense compulsion to focus, analyse, frame, categorise, isolate. 
+That which energises us makes us live richly. That which reinforces support emotional freedom. Close friends
+ and family help us maintain perspective and laugh.
 
-If one is analytic what is the other? What are it sources? Kabbalah tree of life
+Sex
+---
+
+Entirely mysterious. You must do it how you like. 
     
 
 
