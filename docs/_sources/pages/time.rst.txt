@@ -44,6 +44,20 @@ The regulator is phasic dopaminergic signaling that orients us toward novel, sur
 meta-monitoring processes that track our learning progress and stop us getting trapped. The illusion of 
 self-determination. The invisible gold which mixes us from ourselves.
 
+Sound and time
+--------------
+
+Because sound is a wave, it necessarily exists in time. As the neurons in the brain fire, the ion gates embedded
+in each one have to open up to allow time to pass. These nuerons are in some cases connected to the perceptual apparatus 
+of the auditory system in human head, and ultimately the ears. As the conciousness projects its expectations along
+the perceptual channels of hearing in the human mind the sounds we are able to hear are characterised by being 
+harmonic, or noisey, or like vowels or more rhythmic constants. 
+
+This aligns with the nature of language as a social technology we use to co-ordinate with each other through time. 
+For example the development of the mouth has meant that speech allows us to be heard. Listening is in an evolutionary
+necessity if beings are going to communicate in the way that we do. This is bourne out by the fact that spoken language
+develops much earlier and more consistently than written language, or networked computer use. 
+
 
 .. _Gene Ray: https://rationalwiki.org/wiki/Time_Cube
 

@@ -48,10 +48,34 @@ White noise and ambience
 
 ..  youtube:: 8myYyMg1fFE
 
+
+Voices with patterns of notes
+- with a fractaline structure 
+- which refer back the bass tonality 
+
+Upto 3 independent voices - harmony or counterpoint 
+Yet may be multi-timbral
+
+Harmonic series
+
 Ed Rush and Optical on bass
 ***************************
 
 ..  youtube:: iMQzcufkToI
+
+Mono to play consistently 
+
+Structure
+*********
+
+3 minutes
+engaging beginning
+proceed by addition of parts 
+consistent bass tonality
+connection of bass to rhythm
+introduce chorus, proceed to creccendo
+
+tempo the same
 
 
 
