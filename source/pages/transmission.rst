@@ -57,11 +57,6 @@ Heighten Sensation
 Repose in the sensation that rests us from intense compulsion to focus, analyse, frame, categorise, isolate. 
 That which energises us makes us live richly. That which reinforces support emotional freedom. Close friends
  and family help us maintain perspective and laugh.
-
-Sex
----
-
-Entirely mysterious. You must do it how you like. 
     
 
 
