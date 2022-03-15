@@ -2,6 +2,19 @@
 Recording studio as an instrument
 *********************************
 
+Basic ontology of instrumental capabilities 
+
+- Fixed rig
+  - Keyboard
+  - 16 channels 
+  - Synth 
+  - Sampler 
+  - Sequencer
+- Additions
+  - Panel control for synth 
+  - End chain recording 
+  - Looper
+
 * Lee Kelly
 * Brian Eno
 * Phil Spector

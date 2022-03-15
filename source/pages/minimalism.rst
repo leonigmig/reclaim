@@ -2,6 +2,17 @@
 Open-ended consciousness
 ************************
 
+Trancendentalism
+================
+
+ Helmholtz’s account of differential consciousness, resists binary view in favor of a fluidity that moves 
+ between the strict empiricist position that that knowledge comes only or primarily from sensory experience
+ and a transcendental idealism which holds  a belief in the essential unity of all creation, 
+ the innate goodness of humanity, and the supremacy of insight over logic and experience for the revelation 
+ of the deepest truths. 
+  
+
+
 Minimalism
 ==========
 
@@ -17,24 +28,4 @@ According to Young himself, "Nobody ever took an interest in writing sustained t
 
 "What La Monte introduced was this concept of not having to press ahead to create interest. He would wait for the music to take its own course."
 
-Rave scene in the late 80s/early 90s
-====================================
 
-* Chernobyl
-* Shelling of Russian parliament
-* Hubble space telescope
-* Dolly the sheep
-
-..  youtube:: 8ngaSb3TfFU
-
-Some notions about drugs - looking culturally that seems to be where the openness came from in the rave cultural explosion. Danger to breweries!
-
-Confluence of free parties and promoters making money
-
-* New age travellers
-* Yuppies
-* Football hooligans
-
-It was then suppressed and made less danger of an epidemic. 
-
-Technology part of the drivers, backdrop

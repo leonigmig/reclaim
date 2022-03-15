@@ -15,6 +15,7 @@ Simple images, markup and hyperlinks. The medium is the message.
    ./pages/transmission
    ./pages/production
    ./pages/minimalism
-   ./pages/disco
+   ./pages/escapism
    ./pages/time
+   ./pages/oscillations
 
