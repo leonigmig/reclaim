@@ -7,15 +7,12 @@ Simple images, markup and hyperlinks. The medium is the message.
 
 .. image:: /_static/waterfall.png
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    ./pages/transmission
-   ./pages/production
-   ./pages/minimalism
    ./pages/escapism
-   ./pages/time
-   ./pages/oscillations
+   ./pages/perception
+   ./pages/production
 

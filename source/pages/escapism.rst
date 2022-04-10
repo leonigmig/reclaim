@@ -1,6 +1,9 @@
-*************
-Protest music
-*************
+*****************
+Escapist Cultures
+*****************
+
+mimetic / modality independent communication
+
 
 `Counterculture`_ and Escapism
 ------------------------------
@@ -10,6 +13,52 @@ will start to seek other groups and cultures which promise to better fulfil thei
 
 The attempt to avoid awareness of aversive beliefs. The function of escapism is a compensation for exposure to other irrational patterns of belief formation, particular in 
 so far as those belief systems would lead to dispair. 
+
+Minimalism
+==========
+
+Linear time and modernity
+-------------------------
+
+The linear conception of time dominates the modern world. It bids us to construct it.
+
+.. image:: /_static/linear_time.webp
+
+Bronze age, monotheistic religions had the idea of salvation:
+a process directed into the future. Technology certainly works that way. The spring wound 
+mechanical clocks used in fourteenth  century were a prelude to the scientific-technological advances 
+of  modernity. Newton's  physics established time as a quantifiable  arrow. The Great Western Railway 
+syncronised railway time across England in November 1840.
+
+Time becomes a loop
+-------------------
+
+Today we are certain that time  itself  runs  on  and  does  not return. However, notions of non-linear 
+(periodic or cycical) time remain. The phenomenal sense of temporal continuity is periodic.
+
+.. image:: /_static/Ouroboros.jpg
+
+* Human Body (heartbeat, respiration, sleep-wake cycle, circadian hormone secretion, among others)
+* Bantu culture
+* Nietzsche (western philosopher)
+* La Monte Young
+* `Gene Ray`_
+
+The origins of minimalism are contested.
+
+    "During this period of concentration, I created a monotone symphony whose theme expresses what I wished my life to be." – Yves Klein
+
+.. image:: /_static/yves9.jpg
+
+LaMonte Young was born in a log cabin in Bern, Idaho. As a child he was influenced by the droning sounds of the environment, such as blowing wind and electrical transformers. 
+
+According to Young himself, "Nobody ever took an interest in writing sustained tones without melodies over them before me."
+
+"What La Monte introduced was this concept of not having to press ahead to create interest. He would wait for the music to take its own course."
+
+
+https://en.wikipedia.org/wiki/Magic_chord
+
 
 New York Disco scene in early 70s
 ---------------------------------
@@ -50,7 +99,7 @@ UK Rave scene in the late 80s/early 90s
 
 ..  youtube:: 8ngaSb3TfFU
 
-Some notions about drugs - looking culturally that seems to be where the openness came from in the rave cultural explosion. Danger to breweries!
+Availability of drugs - looking culturally that seems to be where the openness came from in the rave cultural explosion. Danger to breweries!
 
 Confluence of free parties and promoters making money
 
@@ -62,5 +111,21 @@ It was then suppressed and made less danger of an epidemic.
 
 Technology part of the drivers, backdrop.
 
+Open-ended consciousness
+------------------------
+
+- https://en.wikipedia.org/wiki/Recapitulation_theory
+- https://en.wikipedia.org/wiki/Transactional_analysis#Fifty_years_later
+- https://en.wikipedia.org/wiki/Chaos_magic
+- https://en.wikipedia.org/wiki/Symbol_of_Chaos
+- https://en.wikipedia.org/wiki/Prometheus_Rising
+- https://en.wikipedia.org/wiki/General_semantics
+- https://en.wikipedia.org/wiki/Eight-circuit_model_of_consciousness
+- https://en.wikipedia.org/wiki/Timothy_Leary#Concord_Prison_Experiment
+
+
+
 .. _needs: https://en.wikipedia.org/wiki/The_True_Believer
 .. _Counterculture: https://en.wikipedia.org/wiki/Timeline_of_1960s_counterculture
+
+.. _Gene Ray: https://rationalwiki.org/wiki/Time_Cube

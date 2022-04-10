@@ -2,6 +2,16 @@
 Recording studio as an instrument
 *********************************
 
+
+- Music structure
+  - Arrwngment
+  - Phrases 
+  - Progression 
+  - Resolution 
+
+
+The less we just stare at the hammer-thing, and the more we seize hold of it and use it, the more primordial does our relationship to it become, and the more unveiledly is it encountered as that which it is—as equipment. The hammering itself uncovers the specific ‘manipulability’ of the hammer. The kind of Being which equipment possesses—in which it manifests itself in its own right—we call ‘readiness-to-hand’.
+
 Basic ontology of instrumental capabilities 
 
 - Fixed rig
@@ -89,6 +99,27 @@ connection of bass to rhythm
 introduce chorus, proceed to creccendo
 
 tempo the same
+
+
+shenker
+
+schaffer
+
+sethares
+
+
+nueral entrainment and rhythm - perceptual 1.5 seconds - sensitive to it
+
+metric hierarchy, assymetries, polyrhythms
+
+syncopation, weak beats, groove and dancing
+
+Harmony, progression and modulation 
+
+Tone, separation, integration and grouping
+
+http://www.dynamictonality.com/xronomorph.htm
+milne
 
 
 
