@@ -32,7 +32,7 @@ Basic ontology of instrumental capabilities
 
 
 FSOL production techniques
-**************************
+--------------------------
 
 We both had big bags of samples and dubs and noises, and we would both just go in and sprinkle them over things that we were doing.
 
@@ -67,7 +67,7 @@ FSOL Sample sources
 * Dead can Dance
 
 White noise and ambience
-************************
+------------------------
 
 ..  youtube:: 8myYyMg1fFE
 
@@ -82,14 +82,14 @@ Yet may be multi-timbral
 Harmonic series
 
 Ed Rush and Optical on bass
-***************************
+---------------------------
 
 ..  youtube:: iMQzcufkToI
 
 Mono to play consistently 
 
 Structure
-*********
+---------
 
 3 minutes
 engaging beginning

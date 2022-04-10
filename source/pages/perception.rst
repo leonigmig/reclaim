@@ -1,10 +1,6 @@
 *******************
-Conceptions of time
+Perceptions of time
 *******************
-
-************************
-Open-ended consciousness
-************************
 
 time as measurement of periods of vibrations
 
@@ -12,7 +8,7 @@ root of all structure : le monte
 
 
 Trancendentalism
-================
+----------------
 
  Helmholtz’s account of differential consciousness, resists binary view in favor of a fluidity that moves 
  between the strict empiricist position that that knowledge comes only or primarily from sensory experience
@@ -61,7 +57,7 @@ By living with electric instruments our experience of listening itself is being 
 a discourse which seeks to unsettle the traditional ontological privilege of the visual in Western philosophy and explore various aspects of auditory phenomena and culture
 
 Gestalt, alchemy and acousmatic hearing
-=======================================
+---------------------------------------
 
 The mind groups things automatically
 
