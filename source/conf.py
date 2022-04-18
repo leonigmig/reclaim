@@ -1,7 +1,6 @@
 # Configuration file for the Sphinx documentation builder.
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
-import tibas.tt
 import alabaster
 
 
@@ -35,7 +34,7 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = 'tt'
-html_theme_path = [tibas.tt.get_path(), alabaster.get_path()]
+html_theme_path = ['../theme/']
 html_theme_options = {
     'show_powered_by' : False
 }
