@@ -19,7 +19,7 @@ How did it happen? In the bronze age, impoverished people following monotheistic
 
 By November 1840 the  needs of the terrifying, smoke belching railway has synchonised time across the whole of England. Today everything is needlessly synchronised in a dystopia of unrestrained technology, Internet of corporate interests, attention hijack, disinformation, misinformation and trivia.
 
-.. image:: /_static/TOOMUCH.png
+.. image:: /_static/toomuch.png
 
 This unweildy machine has become the neurotic cage of billions of overwrought souls. Alienated from more natural surroundings the instincts to fight, fly away or freeze in terror flap like bloody wings against the metal walls of the underground containers constructed to house us. And we flap our bloody wings against each other.
 
