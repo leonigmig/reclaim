@@ -22,12 +22,12 @@ By November 1840 the  needs of the terrifying, smoke belching railway had syncho
 Causal mechanisms
 -----------------
 
-.. image:: /_static/gluon.png
-
 Electronics convert signals into high frequency oscillating currents via suitably shaped conductors. Electricity 
 permits the transmission and reception of these signals via radio waves over very long distances and into people's
 homes. The signals have been stored magnetically then processed into digital information by a series of technological 
 transformations. Modern network and computing systems allow them to be reproduced in an appropraite medium on demand. 
+
+.. image:: /_static/gluon.png
 
 This unweildy machine has become the neurotic cage of billions of overwrought souls. Alienated from more natural surroundings the instincts to fight, fly away or freeze in terror flap like bloody wings against the metal walls of the underground containers constructed to house us. And we flap our bloody wings against each other.
 
