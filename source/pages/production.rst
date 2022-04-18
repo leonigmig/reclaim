@@ -2,6 +2,11 @@
 Recording studio as an instrument
 *********************************
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   ./pieces/one
 
 - Music structure
   - Arrwngment

@@ -1,6 +1,6 @@
-*****************
-Escapist Cultures
-*****************
+******************
+Cultures of escape
+******************
 
 mimetic / modality independent communication
 

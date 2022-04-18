@@ -1,17 +1,17 @@
-reclaiming leonigmig
-====================
+Reclaim leonigmig
+=================
 
-Retro futuristic implementation of Internet identity as a transmission system.
-
-Simple images, markup and hyperlinks. The medium is the message.
+The medium is the message.
 
 .. image:: /_static/waterfall.png
+
+**Post-ISDN transmission system.**
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   ./pages/transmission
+   ./pages/claustrophobia
    ./pages/escapism
    ./pages/perception
    ./pages/production
