@@ -17,19 +17,6 @@ so far as those belief systems would lead to dispair.
 Minimalism
 ==========
 
-Linear time and modernity
--------------------------
-
-The linear conception of time dominates the modern world. It bids us to construct it.
-
-.. image:: /_static/linear_time.webp
-
-Bronze age, monotheistic religions had the idea of salvation:
-a process directed into the future. Technology certainly works that way. The spring wound 
-mechanical clocks used in fourteenth  century were a prelude to the scientific-technological advances 
-of  modernity. Newton's  physics established time as a quantifiable  arrow. The Great Western Railway 
-syncronised railway time across England in November 1840.
-
 Time becomes a loop
 -------------------
 

@@ -6,7 +6,7 @@ Reclaim leonigmig
 .. image:: /_static/waterfall.png
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
    ./pages/claustrophobia

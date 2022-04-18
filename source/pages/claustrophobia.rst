@@ -2,58 +2,57 @@
 An account of millenial claustrophobia
 **************************************
 
+The starting point is dystopic claustrophobia.
+
 ..  youtube:: fd8xV-WIgrE
 
-The starting point is dystopic claustrophobia. Unrestrained technology, internet of corporate interests, attention hijack,
-disinformation, misinformation and trivia. Yet distopic claustraphobia is nothing new. The goal is not to revolutionise it. To
+Linear time and modernity
+-------------------------
+
+The modern world is dominated by the linear conception of time. This is the conceptual trap we humans fell into 350 years ago. The hope of progress entices us, again and again, to endlessly and meaninglessly construct and expand the technological world around us. 
+
+.. image:: /_static/linear_time.webp
+
+How did it happen? In the bronze age, impoverished people following monotheistic religions had the idea of salvation: a process directed into the future. The spring wound mechanical clocks used in fourteenth century were a prelude to the technological advances of modernity. Newton established time as a quantifiable arrow. 
+
+.. image:: /_static/blackcountrynight.jpg
+
+By November 1840 the  needs of the terrifying, smoke belching railway has synchonised time across the whole of England. Today everything is needlessly synchronised in a dystopia of unrestrained technology, Internet of corporate interests, attention hijack, disinformation, misinformation and trivia.
+
+.. image:: /_static/TOOMUCH.png
+
+This unweildy machine has become the neurotic cage of billions of overwrought souls. Alienated from more natural surroundings the instincts to fight, fly away or freeze in terror flap like bloody wings against the metal walls of the underground containers constructed to house us. And we flap our bloody wings against each other.
+
+A mind that seeks to to trancend
+--------------------------------
+
+Those changes which [we] can bring forth and annul by conscious
+impulses of the will are to be distinguished from those which are
+not consequences of the will’s impulses and cannot be overcome by
+such.
+
+ Helmholtz’s account of differential consciousness, resists binary view in favor of a fluidity that moves 
+ between the strict empiricist position that that knowledge comes only or primarily from sensory experience
+ and a transcendental idealism which holds  a belief in the essential unity of all creation, 
+ the innate goodness of humanity, and the supremacy of insight over logic and experience for the revelation 
+ of the deepest truths. 
+  
+
+
+-----------------
+
+The circular experience of time, our experience of time, syncronised with the world. A mind which 
+rewards just-manageable challenges, clear proximal goals, and immediate feedback. Inventive and 
+curious behavoiral traits. Friendly or compassionate engagemen with others. A sensitive or nervous 
+affect.
+
+.. image:: /_static/sync.jpg
+
+The presence in time of concious control. The sub-conscious which notices small details and defends.
+The regulator is phasic dopaminergic signaling that orients us toward novel, surprising, or uncertain stimuli. And 
+meta-monitoring processes that track our learning progress and stop us getting trapped. The illusion of 
+self-determination. The invisible gold which mixes us from ourselves.
+
+Dystopic claustraphobia is nothing new. The goal is not to revolutionise it. To
 follow a well trodden, but still dangerous path. But to live in a way that escapes or evades the closing in.
 
-The enemy of the overwrought defensive model that embeds nuerosis, fight, flight, freeze.
-
-Field Dynamics
-**************
-
-Able to speak and hear - highly evolved categories. We ourselves are simply complex disturbances of quantum fields, able 
-to emit and recieve. We have emotions thought of as unconscious, or deeper than conscious constructs and foundations. These 
-internal fields are how we tell stories to ourselves as we pass through time. 
-
-Nature as objects of respect and wonder as opposed to standing reserve
-
-What we ‘first’ hear is never noises or complexes of sounds, but the creaking waggon, the motor-cycle. We hear the column on the march, the north wind, the woodpecker tapping, the fire crackling… It requires a very artificial and complicated frame of mind to ‘hear’ a ‘pure noise’.
-
-Causal mechanisms
-*****************
-
-.. image:: /_static/gluon.png
-
-Electronics convert signals into high frequency oscillating currents via suitably shaped conductors, electricity 
-permits the transmission and reception of these signals via radio waves over very long distances and into people's
-homes. The signals have been stored magnetically then processed into digital information by a series of technological 
-transformations. Modern network and computing systems allow them to be reproduced in an appropraite medium on demand. 
-
-
-Purpose
-*******
-
-The idea that we have no purpose is nonsense. If the field we inhabit is indeed infinite and multi-dimensional,
-then there must be some regularity in how things are distributed in time and space, in order to explain our
-subjective experience of time. That we are aligned with this regularity is sufficient to prove we have purpose. 
-
- For example we are only successful as a species when we are able to procreate. Many of our structural characteristics 
- and experiences from youth through to late middle age are conditioned by this urge. This is an example of a deep 
- structural chacteristic being causally associated in time with success. 
-
-
-
-A system of transmission, described by `FSOL`_ as the journey from millennial claustrophobia to open-ended cosmic consciousness.
-
-Psychedelia relates to the natural state of a child. Naive mirror neutrons captured in their 
-elemental state of awe. The mirror can be the mimic, the memory, harmonious and engaged. 
-
-
-Ordered reflections. Dreams and visions and emotions. The layer in between the stable and the varying. Repose in the sensation that rests us from intense compulsion to focus, analyse, frame, categorise, isolate. 
-That which energises us makes us live richly. That which reinforces support emotional freedom. Close friends and family help us maintain perspective and laugh.
-
-Through a practice of deep listening, an awareness of the spatiality of sound phenomenon. Take some of these escapist ideas seriously.
-
-.. _FSOL: http://fsolnews.blogspot.com/

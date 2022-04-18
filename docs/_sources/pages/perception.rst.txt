@@ -7,30 +7,6 @@ time as measurement of periods of vibrations
 root of all structure : le monte
 
 
-Trancendentalism
-----------------
-
- Helmholtz’s account of differential consciousness, resists binary view in favor of a fluidity that moves 
- between the strict empiricist position that that knowledge comes only or primarily from sensory experience
- and a transcendental idealism which holds  a belief in the essential unity of all creation, 
- the innate goodness of humanity, and the supremacy of insight over logic and experience for the revelation 
- of the deepest truths. 
-  
-
-A mind that seeks
------------------
-
-The circular experience of time, our experience of time, syncronised with the world. A mind which 
-rewards just-manageable challenges, clear proximal goals, and immediate feedback. Inventive and 
-curious behavoiral traits. Friendly or compassionate engagemen with others. A sensitive or nervous 
-affect.
-
-.. image:: /_static/sync.jpg
-
-The presence in time of concious control. The sub-conscious which notices small details and defends.
-The regulator is phasic dopaminergic signaling that orients us toward novel, surprising, or uncertain stimuli. And 
-meta-monitoring processes that track our learning progress and stop us getting trapped. The illusion of 
-self-determination. The invisible gold which mixes us from ourselves.
 
 Sound and time
 --------------
@@ -115,3 +91,51 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3889703/
 https://plato.stanford.edu/entries/consciousness-temporal/
 https://www.elektronauts.com/uploads/default/original/2X/1/117895063c813d7fb0f1af38104b662c278e9007.pdf
 https://www.contempaesthetics.org/newvolume/pages/article.php?articleID=582
+
+Field Dynamics
+**************
+
+Able to speak and hear - highly evolved categories. We ourselves are simply complex disturbances of quantum fields, able 
+to emit and recieve. We have emotions thought of as unconscious, or deeper than conscious constructs and foundations. These 
+internal fields are how we tell stories to ourselves as we pass through time. 
+
+Nature as objects of respect and wonder as opposed to standing reserve
+
+What we ‘first’ hear is never noises or complexes of sounds, but the creaking waggon, the motor-cycle. We hear the column on the march, the north wind, the woodpecker tapping, the fire crackling… It requires a very artificial and complicated frame of mind to ‘hear’ a ‘pure noise’.
+
+Causal mechanisms
+*****************
+
+.. image:: /_static/gluon.png
+
+Electronics convert signals into high frequency oscillating currents via suitably shaped conductors, electricity 
+permits the transmission and reception of these signals via radio waves over very long distances and into people's
+homes. The signals have been stored magnetically then processed into digital information by a series of technological 
+transformations. Modern network and computing systems allow them to be reproduced in an appropraite medium on demand. 
+
+
+Purpose
+*******
+
+The idea that we have no purpose is nonsense. If the field we inhabit is indeed infinite and multi-dimensional,
+then there must be some regularity in how things are distributed in time and space, in order to explain our
+subjective experience of time. That we are aligned with this regularity is sufficient to prove we have purpose. 
+
+ For example we are only successful as a species when we are able to procreate. Many of our structural characteristics 
+ and experiences from youth through to late middle age are conditioned by this urge. This is an example of a deep 
+ structural chacteristic being causally associated in time with success. 
+
+
+
+A system of transmission, described by `FSOL`_ as the journey from millennial claustrophobia to open-ended cosmic consciousness.
+
+Psychedelia relates to the natural state of a child. Naive mirror neutrons captured in their 
+elemental state of awe. The mirror can be the mimic, the memory, harmonious and engaged. 
+
+
+Ordered reflections. Dreams and visions and emotions. The layer in between the stable and the varying. Repose in the sensation that rests us from intense compulsion to focus, analyse, frame, categorise, isolate. 
+That which energises us makes us live richly. That which reinforces support emotional freedom. Close friends and family help us maintain perspective and laugh.
+
+Through a practice of deep listening, an awareness of the spatiality of sound phenomenon. Take some of these escapist ideas seriously.
+
+.. _FSOL: http://fsolnews.blogspot.com/
