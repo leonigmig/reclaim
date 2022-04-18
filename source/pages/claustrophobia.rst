@@ -29,8 +29,6 @@ permits the transmission and reception of these signals via radio waves over ver
 homes. The signals have been stored magnetically then processed into digital information by a series of technological 
 transformations. Modern network and computing systems allow them to be reproduced in an appropraite medium on demand. 
 
-.. image:: /_static/toomuch.png
-
 This unweildy machine has become the neurotic cage of billions of overwrought souls. Alienated from more natural surroundings the instincts to fight, fly away or freeze in terror flap like bloody wings against the metal walls of the underground containers constructed to house us. And we flap our bloody wings against each other.
 
 A vision of hell
@@ -46,4 +44,4 @@ And the camera cut to reveal the horror below - the full spectrum wail no longer
 
 Each pair of large feathered, magnificent wings tethered firmly to a cyclindrical spine of pure protein. No head or neck or feet or breast. Just a perfectly functional, factory produced stub to ground these muscle-bound wings. Each stubby base harnessed by wires and packed densely into the cavournous space below where they furiously beat. Halls and halls of underground wings flapping into eternity. I could not see the floor. They were fed, I assume somehow. Thick liquid dripping. No eyes no brains just nerves and muscle and energy endlessly beating.
 
-And they are just there. Any purpose to these thousands of benighted beings entirely inscrutable. Not so much hard to divine the meaning of these things, so much as the definition of meaninglessness. Technology, power, pain, indifference scale and nothing else beside. No redemption, no potential. No potential for redemption. Just time stretching out and the absence of change. Meaningless Whys with their magnificent bloody wings.  
+And they are just there. Any purpose to these thousands of benighted beings entirely inscrutable. Not so much hard to divine the meaning of these things, so much as the definition of meaninglessness. Technology, power, pain, indifference scale and nothing else beside. No redemption, no potential. No potential for redemption. Just time stretching out and the absence of change. Meaningless Whys with their magnificent bloodied wings, flapping against each other in the dark - a thousand miles from anything.  
