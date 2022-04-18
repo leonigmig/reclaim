@@ -6,6 +6,39 @@ time as measurement of periods of vibrations
 
 root of all structure : le monte
 
+A mind that seeks to to trancend
+--------------------------------
+
+Those changes which [we] can bring forth and annul by conscious
+impulses of the will are to be distinguished from those which are
+not consequences of the will’s impulses and cannot be overcome by
+such.
+
+ Helmholtz’s account of differential consciousness, resists binary view in favor of a fluidity that moves 
+ between the strict empiricist position that that knowledge comes only or primarily from sensory experience
+ and a transcendental idealism which holds  a belief in the essential unity of all creation, 
+ the innate goodness of humanity, and the supremacy of insight over logic and experience for the revelation 
+ of the deepest truths. 
+  
+
+
+-----------------
+
+The circular experience of time, our experience of time, syncronised with the world. A mind which 
+rewards just-manageable challenges, clear proximal goals, and immediate feedback. Inventive and 
+curious behavoiral traits. Friendly or compassionate engagemen with others. A sensitive or nervous 
+affect.
+
+.. image:: /_static/sync.jpg
+
+The presence in time of concious control. The sub-conscious which notices small details and defends.
+The regulator is phasic dopaminergic signaling that orients us toward novel, surprising, or uncertain stimuli. And 
+meta-monitoring processes that track our learning progress and stop us getting trapped. The illusion of 
+self-determination. The invisible gold which mixes us from ourselves.
+
+Dystopic claustraphobia is nothing new. The goal is not to revolutionise it. To
+follow a well trodden, but still dangerous path. But to live in a way that escapes or evades the closing in.
+
 
 
 Sound and time
@@ -103,15 +136,6 @@ Nature as objects of respect and wonder as opposed to standing reserve
 
 What we ‘first’ hear is never noises or complexes of sounds, but the creaking waggon, the motor-cycle. We hear the column on the march, the north wind, the woodpecker tapping, the fire crackling… It requires a very artificial and complicated frame of mind to ‘hear’ a ‘pure noise’.
 
-Causal mechanisms
-*****************
-
-.. image:: /_static/gluon.png
-
-Electronics convert signals into high frequency oscillating currents via suitably shaped conductors, electricity 
-permits the transmission and reception of these signals via radio waves over very long distances and into people's
-homes. The signals have been stored magnetically then processed into digital information by a series of technological 
-transformations. Modern network and computing systems allow them to be reproduced in an appropraite medium on demand. 
 
 
 Purpose

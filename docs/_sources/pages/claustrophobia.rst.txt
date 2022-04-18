@@ -19,40 +19,29 @@ How did it happen? In the bronze age, impoverished people following monotheistic
 
 By November 1840 the  needs of the terrifying, smoke belching railway has synchonised time across the whole of England. Today everything is needlessly synchronised in a dystopia of unrestrained technology, Internet of corporate interests, attention hijack, disinformation, misinformation and trivia.
 
+Causal mechanisms
+-----------------
+
+.. image:: /_static/gluon.png
+
+Electronics convert signals into high frequency oscillating currents via suitably shaped conductors, electricity 
+permits the transmission and reception of these signals via radio waves over very long distances and into people's
+homes. The signals have been stored magnetically then processed into digital information by a series of technological 
+transformations. Modern network and computing systems allow them to be reproduced in an appropraite medium on demand. 
+
 .. image:: /_static/toomuch.png
 
 This unweildy machine has become the neurotic cage of billions of overwrought souls. Alienated from more natural surroundings the instincts to fight, fly away or freeze in terror flap like bloody wings against the metal walls of the underground containers constructed to house us. And we flap our bloody wings against each other.
 
-A mind that seeks to to trancend
---------------------------------
+A vision of hell
+----------------
 
-Those changes which [we] can bring forth and annul by conscious
-impulses of the will are to be distinguished from those which are
-not consequences of the will’s impulses and cannot be overcome by
-such.
+The mist was cold and the observer was dis-embodied, like a slow moving camera on a serious documentary. The place was somewhere very far north, where the trees were evergreen and the grass long and matted with weeds. Here it was thousands of miles from civilisation, in some otherworld outside of time, where the normal rules of physics did not apply, and nothing was what it seemed. 
 
- Helmholtz’s account of differential consciousness, resists binary view in favor of a fluidity that moves 
- between the strict empiricist position that that knowledge comes only or primarily from sensory experience
- and a transcendental idealism which holds  a belief in the essential unity of all creation, 
- the innate goodness of humanity, and the supremacy of insight over logic and experience for the revelation 
- of the deepest truths. 
-  
+In a small clearing was a concrete rectangle raised not half a foot from the ground. Grubby, as if it has been there for 25 years or more. A relic of cold war defense, or offense, or secrecy. Across its top is a manhole cover, large enough and substantial enough to protect access to significant underground space. And beneath that the most horrifying sound. Somehow both mechanical and organic.
 
+Like a baseline hum of distress the sound was a combination of a helicopters mechanical whir, too close for comfort, and a thousand shrieking primates, or large birds - drenched in a metallic reverb. Muffled by the thick steel cover. And the camera cut to reveal the horror below - the full spectrum wail no longer muffled but deafening. Large powerful wings flapping terribly against each other in the pitch black space below. 
 
------------------
+Each pair of large feathered, magnificent wings tethered firmly to a cyclindrical spine of pure protien. No head or neck or feet or breast. Just a perfectly functional, factory produced stub to ground these muscle-bound wings. Each stubby base harnessed by wires and packed densely into the cavournous space below where they furiously beat. Halls and halls of underground wings flapping into eternity. Fed, I assume somehow. No eyes no brains just nerves and muscle and energy endlessly beating.
 
-The circular experience of time, our experience of time, syncronised with the world. A mind which 
-rewards just-manageable challenges, clear proximal goals, and immediate feedback. Inventive and 
-curious behavoiral traits. Friendly or compassionate engagemen with others. A sensitive or nervous 
-affect.
-
-.. image:: /_static/sync.jpg
-
-The presence in time of concious control. The sub-conscious which notices small details and defends.
-The regulator is phasic dopaminergic signaling that orients us toward novel, surprising, or uncertain stimuli. And 
-meta-monitoring processes that track our learning progress and stop us getting trapped. The illusion of 
-self-determination. The invisible gold which mixes us from ourselves.
-
-Dystopic claustraphobia is nothing new. The goal is not to revolutionise it. To
-follow a well trodden, but still dangerous path. But to live in a way that escapes or evades the closing in.
-
+And they are just there. Any purpose to these thousands of benighted beings entirely inscrutable. Not so much hard to divine the meaning of these things, so much as the definition of meaninglessness. Technology, power, pain, indifference scale and not much else beside.  
