@@ -1,14 +1,12 @@
 Reclaim leonigmig
 =================
 
-The medium is the message.
+**Post-ISDN transmission system.**
 
 .. image:: /_static/waterfall.png
 
-**Post-ISDN transmission system.**
-
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    ./pages/claustrophobia
