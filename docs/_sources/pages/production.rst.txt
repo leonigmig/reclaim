@@ -2,80 +2,53 @@
 Recording studio as an instrument
 *********************************
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+Process 
+-------
 
-   ./pieces/one
+Create sound environment
+Create midi
+Mangle audio
+Mixdown audio 
 
-- Music structure
-  - Arrwngment
-  - Phrases 
-  - Progression 
-  - Resolution 
+Structure
+---------
 
+User interface
+Programming 
+Network 
 
-The less we just stare at the hammer-thing, and the more we seize hold of it and use it, the more primordial does our relationship to it become, and the more unveiledly is it encountered as that which it is—as equipment. The hammering itself uncovers the specific ‘manipulability’ of the hammer. The kind of Being which equipment possesses—in which it manifests itself in its own right—we call ‘readiness-to-hand’.
-
-Basic ontology of instrumental capabilities 
-
-- Fixed rig
-  - Keyboard
-  - 16 channels 
-  - Synth 
-  - Sampler 
-  - Sequencer
-- Additions
-  - Panel control for synth 
-  - End chain recording 
-  - Looper
-
-* Lee Kelly
-* Brian Eno
-* Phil Spector
-* Brian Wilson
+Operating over time
+- time as measurement of periods of vibrations
+- root of all structure : le monte
 
 
-FSOL production techniques
---------------------------
+Entrainment and Harmonics
+-------------------------
 
-We both had big bags of samples and dubs and noises, and we would both just go in and sprinkle them over things that we were doing.
+Theta waves are:
+- 6-10hz
+- 6-7hz
 
-We used to sequence virtually everything, and with the two seconds of samples offered by the S612 we learned the beauty of how to take one note and write with it. So, when I'm talking about sampling I'm not referring to just dropping massive bloody hip-hop chunks. I'm talking about going through records, going through TV, getting a conga note and then playing weird rhythms with it. Very creative sampling. 
+6 = 166ms
+10 = 100ms
 
-We have a pretty much 'one‑off' attitude to our work — once it's recorded, we don't really go back and remix. If we ever remix anything then we start again — which is how this 38‑minute single stuff has come about. There's a good argument that once you've worked on a track and you've gone away from it, then that's it. It was a moment in time.
 
-Not other than mixing sounds with effects and EQ as you go. Most of our tracks run live. Those tracks are then 'welded' onto the ADAT, and then we over‑dub on top of that. So when the initial track's written it's pretty much running live with mutes from the C‑Lab. We pretty much bolt everything together on the ADAT
+Layers
+------
 
-Most of our tracks run live. Those tracks are then 'welded' onto the ADAT, and then we over‑dub on top of that. So when the initial track's written it's pretty much running live with mutes from the C‑Lab. We pretty much bolt everything together on the ADAT.
+Arrangement
+Progression
+Phrase
+Rhythm
+Bass 
+Voice
+Voice
+Voice
 
-we used to be quite broad and basic - 'beat' orientated using loops that filled out the sound - their own particular diction and vocabulary cutting up other peoples stuff
 
-and now we're very stark and sparse
 
-I guess we've adapted our philosophy to suit what's happened accidentally
-
-"de‑learn the (dance music production) process ..
-
-in order to get back to what we were like before, where we were really scared of what we were doing because we didn't know what it was, there was no 'home' for it.
-
-It's trying to come up with something that is not only coherent but a new form of coherence, something that we haven't done or heard before. And that's really difficult without getting self‑indulgent. It's a thin line, because I don't want to spill over into the 'avant‑garde' quagmire, which would be an easy step for us to take right now — like an album of complete sound, not a track in sight: a complete three‑dimensional headspace.
-
-I would say meditate, float in an isolation chamber, roll up a fat one, do whatever you do to transcend and stick on A Monstrous Bubble and gradually narrow your gaze and pick out things that resonate and go from there into your own journey. 
-
-FSOL Sample sources
--------------------
-
-* Ennio Morricone
-* Ozric Tentacles 
-* Vangelis - Bladerunner
-* Dead can Dance
-
-White noise and ambience
-------------------------
-
-..  youtube:: 8myYyMg1fFE
-
+Songs 
+-----
 
 Voices with patterns of notes
 - with a fractaline structure 
@@ -86,15 +59,11 @@ Yet may be multi-timbral
 
 Harmonic series
 
-Ed Rush and Optical on bass
----------------------------
-
-..  youtube:: iMQzcufkToI
-
-Mono to play consistently 
-
-Structure
----------
+- Music structure
+  - Arrwngment
+  - Phrases 
+  - Progression 
+  - Resolution 
 
 3 minutes
 engaging beginning
@@ -102,30 +71,94 @@ proceed by addition of parts
 consistent bass tonality
 connection of bass to rhythm
 introduce chorus, proceed to creccendo
-
+Harmony, progression and modulation 
 tempo the same
-
 
 shenker
 
-schaffer
+
+Phrases 
+-------
+
+Tone, separation, integration and grouping
+
+rhythm
+Syncopation as a cognitive mechanism has been described as a form of violation of metrical expectations
+nueral entrainment and rhythm - perceptual 1.5 seconds - sensitive to it
+metric hierarchy, assymetries, polyrhythms
+syncopation, weak beats, groove and dancing
+
+pitch, 
+
+- Fundamental frequency 
+- Harmonics 
 
 sethares
 
+timbre, 
+timbre as rise time, spectral centoid, spectral flux, noise content
 
-nueral entrainment and rhythm - perceptual 1.5 seconds - sensitive to it
+Entrained to 250ms
+------------------
 
-metric hierarchy, assymetries, polyrhythms
+schaffer
 
-syncopation, weak beats, groove and dancing
+- Envelope 
+- Attack log spectral centre 
+- exaption - ear / mouth / vowel / consonent
+- ossicles, tongue
 
-Harmony, progression and modulation 
+- Vibrato 
 
-Tone, separation, integration and grouping
+
+
+
+balance, evenness, and interonset interval entropy
+
+
+
+Heterarchy
+
+Basic ontology of instrumental capabilities 
+
+Gear and configuration
+----------------------
+
+Getting everything setup nicely around sound is a nightmare. Having messed around a lot here's where I have ended Upto
+
+1/ DT overbridge to bitwig
+2/ USB interface takes all audio 
+3/ all midi turned off just using overbridge
+4/ remove all pesky plugins which introduce latency
+5/ configure negative 25ms and latency within around 5ms
+
+
+
+White noise and ambience
+------------------------
+
+..  youtube:: 8myYyMg1fFE
+
+
+
+
+
+
+
+
 
 http://www.dynamictonality.com/xronomorph.htm
 milne
 
 
+https://journals.sagepub.com/doi/full/10.1177/2059204320938635
+
+https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01036/full
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   ./pieces/one
 
 .. _FSOL: http://fsolnews.blogspot.com/

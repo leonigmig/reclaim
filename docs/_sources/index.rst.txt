@@ -1,7 +1,7 @@
 Reclaim leonigmig
 =================
 
-**Post-ISDN transmission system.**
+A journey from millennial claustrophobia to open-ended cosmic consciousness.
 
 .. image:: /_static/waterfall.png
 
@@ -10,7 +10,7 @@ Reclaim leonigmig
    :caption: Contents:
 
    ./pages/claustrophobia
+   ./pages/rebirth
    ./pages/escapism
-   ./pages/perception
    ./pages/production
 

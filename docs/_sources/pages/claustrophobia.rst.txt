@@ -6,8 +6,8 @@ The starting point is dystopic claustrophobia.
 
 ..  youtube:: fd8xV-WIgrE
 
-Linear time and modernity
--------------------------
+Time and modernity
+------------------
 
 The modern world is dominated by the linear conception of time. This is the conceptual trap we humans fell into 350 years ago. The hope of progress entices us, again and again, to endlessly and meaninglessly construct and expand the technological world around us. 
 
@@ -45,3 +45,8 @@ And the camera cut to reveal the horror below - the full spectrum wail no longer
 Each pair of large feathered, magnificent wings tethered firmly to a cyclindrical spine of pure protein. No head or neck or feet or breast. Just a perfectly functional, factory produced stub to ground these muscle-bound wings. Each stubby base harnessed by wires and packed densely into the cavournous space below where they furiously beat. Halls and halls of underground wings flapping into eternity. I could not see the floor. They were fed, I assume somehow. Thick liquid dripping. No eyes no brains no ears just nerves and muscle and energy endlessly beating.
 
 And they are just there. Any purpose to these thousands of benighted beings entirely inscrutable. Not so much hard to divine the meaning of these things, so much as the definition of meaninglessness. Technology, power, pain, indifference scale and nothing else beside. No redemption, no potential. No potential for redemption. Just time stretching out and the absence of change. Meaningless Whys with their magnificent bloodied wings, flapping against each other in the dark - a thousand miles from anything.  
+
+Narcissisus Suzerain
+--------------------
+
+Commentary on the tendancy in modern society with modern communication mechanisms to allow pathological narcissists to predominate. 

@@ -1,10 +1,69 @@
-*******************
-Perceptions of time
-*******************
+************************
+The Archetype of Rebirth
+************************
 
-time as measurement of periods of vibrations
+.. image:: /_static/mandala.jpg
 
-root of all structure : le monte
+Mandalas
+--------
+
+jungs language around connecting with the instinct
+
+
+Harmonic experience
+-------------------
+
+The phenomenal sense of temporal continuity is harmonic.
+
+The relation of whole numbers to musical consanances was from all time looked upon as a wonderful mystery of deep 
+significance - Helmholtz
+
+Euler's notion that the human mind has peculiar pleasure in simple ratio
+
+The circular experience of time, our experience of time, syncronised with the world. A mind which 
+rewards just-manageable challenges, clear proximal goals, and immediate feedback. Inventive and 
+curious behavoiral traits. Friendly or compassionate engagemen with others. A sensitive or nervous 
+affect.
+
+.. image:: /_static/sync.jpg
+
+The presence in time of concious control. The sub-conscious which notices small details and defends.
+The regulator is phasic dopaminergic signaling that orients us toward novel, surprising, or uncertain stimuli. And 
+meta-monitoring processes that track our learning progress and stop us getting trapped. The illusion of 
+self-determination. The invisible gold which mixes us from ourselves.
+
+
+
+
+
+
+Time becomes a loop
+-------------------
+mimetic / modality independent communication
+
+Today we are certain that time  itself  runs  on  and  does  not return. However, notions of non-linear 
+(periodic or cycical) time remain. The phenomenal sense of temporal continuity is periodic.
+
+.. image:: /_static/Ouroboros.jpg
+
+* Human Body (heartbeat, respiration, sleep-wake cycle, circadian hormone secretion, among others)
+* Bantu culture
+* Nietzsche (western philosopher)
+* La Monte Young
+* Gene Ray, inventor of TimeCube
+
+The origins of minimalism are contested.
+
+
+
+LaMonte Young was born in a log cabin in Bern, Idaho. As a child he was influenced by the droning sounds of the environment, such as blowing wind and electrical transformers. 
+
+According to Young himself, "Nobody ever took an interest in writing sustained tones without melodies over them before me."
+
+"What La Monte introduced was this concept of not having to press ahead to create interest. He would wait for the music to take its own course."
+
+
+https://en.wikipedia.org/wiki/Magic_chord
 
 A mind that seeks to to trancend
 --------------------------------
@@ -23,18 +82,6 @@ such.
 
 
 -----------------
-
-The circular experience of time, our experience of time, syncronised with the world. A mind which 
-rewards just-manageable challenges, clear proximal goals, and immediate feedback. Inventive and 
-curious behavoiral traits. Friendly or compassionate engagemen with others. A sensitive or nervous 
-affect.
-
-.. image:: /_static/sync.jpg
-
-The presence in time of concious control. The sub-conscious which notices small details and defends.
-The regulator is phasic dopaminergic signaling that orients us toward novel, surprising, or uncertain stimuli. And 
-meta-monitoring processes that track our learning progress and stop us getting trapped. The illusion of 
-self-determination. The invisible gold which mixes us from ourselves.
 
 Dystopic claustraphobia is nothing new. The goal is not to revolutionise it. To
 follow a well trodden, but still dangerous path. But to live in a way that escapes or evades the closing in.
@@ -86,34 +133,12 @@ https://en.wikipedia.org/wiki/Don_Ihde
 
 Entrained externally? Aesthetically? Attention, memory, emotion and language
 
-MPEG 7
-
-- Envelope 
-- Vibrato 
-- Fundamental frequency 
-- Harmonics 
-- Attack log spectral centre 
-
-pitch, timbre, rhythm
-timbre as rise time, spectral centoid, spectral flux, noise content
-balance, evenness, and interonset interval entropy
-exaption - ear / mouth / vowel / consonent
-
-ossicles, tongue
-
-
-https://journals.sagepub.com/doi/full/10.1177/2059204320938635
-
-Syncopation as a cognitive mechanism has been described as a form of violation of metrical expectations
-https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01036/full
-
-
+The less we just stare at the hammer-thing, and the more we seize hold of it and use it, the more primordial does our relationship to it become, and the more unveiledly is it encountered as that which it is—as equipment. The hammering itself uncovers the specific ‘manipulability’ of the hammer. The kind of Being which equipment possesses—in which it manifests itself in its own right—we call ‘readiness-to-hand’.
 
 The reductionist bias: https://www.cell.com/neuron/pdf/S0896-6273(16)31040-6.pdf
 
-Something understood: https://en.wikipedia.org/wiki/Caenorhabditis_elegans
 
-Entrained to 250ms
+
 
 https://www.youtube.com/watch?v=5Ig98tWMq0U
 
@@ -141,6 +166,10 @@ What we ‘first’ hear is never noises or complexes of sounds, but the creakin
 Purpose
 *******
 
+    "During this period of concentration, I created a monotone symphony whose theme expresses what I wished my life to be." – Yves Klein
+
+.. image:: /_static/yves9.jpg
+
 The idea that we have no purpose is nonsense. If the field we inhabit is indeed infinite and multi-dimensional,
 then there must be some regularity in how things are distributed in time and space, in order to explain our
 subjective experience of time. That we are aligned with this regularity is sufficient to prove we have purpose. 
@@ -151,7 +180,6 @@ subjective experience of time. That we are aligned with this regularity is suffi
 
 
 
-A system of transmission, described by `FSOL`_ as the journey from millennial claustrophobia to open-ended cosmic consciousness.
 
 Psychedelia relates to the natural state of a child. Naive mirror neutrons captured in their 
 elemental state of awe. The mirror can be the mimic, the memory, harmonious and engaged. 

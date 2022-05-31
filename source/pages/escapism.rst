@@ -2,49 +2,12 @@
 Cultures of escape
 ******************
 
-mimetic / modality independent communication
-
-
 `Counterculture`_ and Escapism
 ------------------------------
 
-People will experience so much of the material living conditions as outside their nexus of control, they 
-will start to seek other groups and cultures which promise to better fulfil their `needs`_.
-
-The attempt to avoid awareness of aversive beliefs. The function of escapism is a compensation for exposure to other irrational patterns of belief formation, particular in 
-so far as those belief systems would lead to dispair. 
-
-Minimalism
-==========
-
-Time becomes a loop
--------------------
-
-Today we are certain that time  itself  runs  on  and  does  not return. However, notions of non-linear 
-(periodic or cycical) time remain. The phenomenal sense of temporal continuity is periodic.
-
-.. image:: /_static/Ouroboros.jpg
-
-* Human Body (heartbeat, respiration, sleep-wake cycle, circadian hormone secretion, among others)
-* Bantu culture
-* Nietzsche (western philosopher)
-* La Monte Young
-* `Gene Ray`_
-
-The origins of minimalism are contested.
-
-    "During this period of concentration, I created a monotone symphony whose theme expresses what I wished my life to be." – Yves Klein
-
-.. image:: /_static/yves9.jpg
-
-LaMonte Young was born in a log cabin in Bern, Idaho. As a child he was influenced by the droning sounds of the environment, such as blowing wind and electrical transformers. 
-
-According to Young himself, "Nobody ever took an interest in writing sustained tones without melodies over them before me."
-
-"What La Monte introduced was this concept of not having to press ahead to create interest. He would wait for the music to take its own course."
+When people experience their material living conditions as outside their nexus of control, they start to seek other groups and cultures which promise to better fulfil their `needs`_. The function of escapism is a compensation for exposure to other irrational patterns of belief formation, particular in so far as those belief systems would lead to dispair. They attempt to avoid awareness of the aversive beliefs the technology dystopia engenders. 
 
 
-https://en.wikipedia.org/wiki/Magic_chord
 
 
 New York Disco scene in early 70s
