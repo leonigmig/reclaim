@@ -5,45 +5,40 @@ Recording studio as an instrument
 Process 
 -------
 
-Create sound environment
-Create midi
-Mangle audio
-Mixdown audio 
+My process is based on the idea that the mind attends by similtaneously discriminating perceptual objects and integrating them into an experiential whole. It does 
+this across two time frames similtaneously - the concious (attending wavelengths between 1 and 40 seconds) and the sub-conscious (attending below 200ms, upto 600hz - percieving
+effects in the 20khz range).
+
+* Arrangement / Song (3 mins 30 seconds)
+* Progression (slow 4 - 15-40 seconds)
+* Phrase (slow 2/3 - 2-5 and 5-15 seconds)
+* Rhythm (slow 1 - 2 seconds)
+* Bass (theta)
+* Voices (theta)
+
+
+* Configure sound generation environment
+* Devise tonality and harmonic structure 
+* Devise groove, motive and hooks
+* Devise phrases, punctuations and elaborations
+* Chart some courses through the labyrinth
+* Mangle and mixdown audio 
 
 Structure
 ---------
 
-User interface
-Programming 
-Network 
+Configure sound generation environment
 
-Operating over time
-- time as measurement of periods of vibrations
-- root of all structure : le monte
-
-
-Entrainment and Harmonics
--------------------------
-
-Theta waves are:
-- 6-10hz
-- 6-7hz
-
-6 = 166ms
-10 = 100ms
-
+* Sound generators
+* Control 
+* User interface
+* Programming 
+* Network 
 
 Layers
 ------
 
-Arrangement
-Progression
-Phrase
-Rhythm
-Bass 
-Voice
-Voice
-Voice
+
 
 
 

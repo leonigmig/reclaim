@@ -8,7 +8,10 @@ Cultures of escape
 When people experience their material living conditions as outside their nexus of control, they start to seek other groups and cultures which promise to better fulfil their `needs`_. The function of escapism is a compensation for exposure to other irrational patterns of belief formation, particular in so far as those belief systems would lead to dispair. They attempt to avoid awareness of the aversive beliefs the technology dystopia engenders. 
 
 
+Bacchus' Dance
+--------------
 
+.. image:: /_static/bacchic.jpg
 
 New York Disco scene in early 70s
 ---------------------------------

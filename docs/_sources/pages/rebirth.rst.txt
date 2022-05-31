@@ -112,6 +112,24 @@ By living with electric instruments our experience of listening itself is being 
 
 a discourse which seeks to unsettle the traditional ontological privilege of the visual in Western philosophy and explore various aspects of auditory phenomena and culture
 
+Entrainment and Harmonics
+-------------------------
+
+Distinction between wavelengths we are reflectively concious of (steer our attention) and those we 
+are interpreted sub-consciously and presented with as impact
+
+Theta waves are:
+- 6-10hz
+- 6-7hz
+
+6 = 166ms
+10 = 100ms
+
+Operating over time
+- time as measurement of periods of vibrations
+- root of all structure : le monte
+
+
 Gestalt, alchemy and acousmatic hearing
 ---------------------------------------
 
