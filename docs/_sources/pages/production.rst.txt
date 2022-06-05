@@ -2,12 +2,12 @@
 Recording studio as an instrument
 *********************************
 
-Process 
--------
+Rationale
+---------
 
 My process is based on the idea that the mind attends by similtaneously discriminating perceptual objects and integrating them into an experiential whole. It does 
-this across two time frames similtaneously - the concious (attending wavelengths between 1 and 40 seconds) and the sub-conscious (attending below 200ms, upto 600hz - percieving
-effects in the 20khz range).
+this across multiple time frames similtaneously - harmonically- the concious (attending wavelengths between 1 and 40 seconds) and the sub-conscious (attending below 
+200ms, upto 600hz - percieving effects in the 20khz range).
 
 * Arrangement / Song (3 mins 30 seconds)
 * Progression (slow 4 - 15-40 seconds)
@@ -16,8 +16,15 @@ effects in the 20khz range).
 * Bass (theta)
 * Voices (theta)
 
+My idea is that the concious and the unconcious perceptions are glued together between the sub-consciously integrated bass tone and the conciously integrated rhythmic pattern. Basic 
+repetition and variation sustains interest.
 
-* Configure sound generation environment
+Process
+-------
+
+Create a walking skeleton through:
+
+* Configure sonic environment
 * Devise tonality and harmonic structure 
 * Devise groove, motive and hooks
 * Devise phrases, punctuations and elaborations
@@ -46,7 +53,7 @@ Songs
 -----
 
 Voices with patterns of notes
-- with a fractaline structure 
+- with a fractaline structure (shenker)
 - which refer back the bass tonality 
 
 Upto 3 independent voices - harmony or counterpoint 
@@ -68,8 +75,6 @@ connection of bass to rhythm
 introduce chorus, proceed to creccendo
 Harmony, progression and modulation 
 tempo the same
-
-shenker
 
 
 Phrases 
@@ -155,5 +160,6 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01036/full
    :caption: Contents:
 
    ./pieces/one
+   ./pieces/four
 
 .. _FSOL: http://fsolnews.blogspot.com/

@@ -8,10 +8,29 @@ Cultures of escape
 When people experience their material living conditions as outside their nexus of control, they start to seek other groups and cultures which promise to better fulfil their `needs`_. The function of escapism is a compensation for exposure to other irrational patterns of belief formation, particular in so far as those belief systems would lead to dispair. They attempt to avoid awareness of the aversive beliefs the technology dystopia engenders. 
 
 
-Bacchus' Dance
---------------
+Βάκχος Dance
+------------
+
+.. image:: /_static/fresco.jpg
+
+The ancient greeks used strings, pipes and song to make music together in symposiums - translated as 'drinking together'. In this patriarchal 
+culture, a female slave might be asked to play a song about love on her Aulos for a gathering of men. Participants would give improvisational  
+performances as the party developed.
+
+"Let us hang garlands of celery across our foreheads and call a festival to Dionysus"
+
+Also known as Bacchus (Βάκχος), Dionysus was the god of the grape-harvest, winemaking, orchards and fruit, fertility, insanity, ritual madness, 
+religious ecstasy and festivity in ancient Greek religion and myth. As Eleutherios ("the liberator"), his wine, music, and ecstatic dance 
+left his followers free from self-conscious fear and the oppressive restraints of the powerful. 
 
 .. image:: /_static/bacchic.jpg
+
+Nietzsche describes ancient greek musical rituals that he believed transcended the pessimism and nihilism of a fundamentally meaningless 
+world. The Greek spectators, by looking into the abyss of human suffering and affirming it, passionately and joyously affirmed the 
+meaning of their own existence. They knew themselves to be infinitely more than petty individuals, finding self-affirmation not in 
+another life, not in a world to come, but in the terror and ecstasy alike celebrated in the performance of tragedies. 
+
+
 
 New York Disco scene in early 70s
 ---------------------------------
@@ -44,6 +63,8 @@ exercise was good for me".
 
 UK Rave scene in the late 80s/early 90s
 ---------------------------------------
+
+"Rave culture just walked away from power, which scared them" Phil Harnell
 
 * Chernobyl
 * Shelling of Russian parliament
