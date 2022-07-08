@@ -12,4 +12,4 @@ A journey from millennial claustrophobia to open-ended cosmic consciousness.
    ./pages/claustrophobia
    ./pages/escape-and-rebirth/escapism
    ./pages/phenomenology
-   ./pages/production
+   ./pages/production/production.rst

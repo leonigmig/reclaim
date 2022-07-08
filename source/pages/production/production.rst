@@ -1,6 +1,16 @@
-*********************************
-Recording studio as an instrument
-*********************************
+***********************
+The production of music
+***********************
+
+2001 or STFU
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   ./one
+   ./three
+   ./four
 
 Rationale
 ---------
@@ -173,12 +183,6 @@ https://journals.sagepub.com/doi/full/10.1177/2059204320938635
 
 https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01036/full
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
-   ./pieces/one
-   ./pieces/three
-   ./pieces/four
 
 .. _FSOL: http://fsolnews.blogspot.com/
