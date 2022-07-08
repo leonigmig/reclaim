@@ -48,6 +48,9 @@ parts into a song with as many verses, choruses, and bridges as desired."
 
 http://manuals.fdiskc.com/flat/Alesis%20MMT-8%20Owners%20Manual.pdf
 
+"If you use song mode, its no different to playing a recording. By using pattern mode it becomes like performing 
+a really slow piano, every 8 bars or so. Meanwhile you can modulate everything on the synths and the mixer"
+
 
 Structure to try out 
 --------------------
@@ -57,6 +60,9 @@ Based on listening to spare parts express and nothing left part i and ii
 Parts can be 2 bars or  - but played as 4 bars using fill 
 
 Change every 
+
+Conclusion was = 8 bars x 2 = 16 
+8 sets of 16 bars (15 seconds) is 4mins
 
 
 Tonality and harmonic structure 

@@ -45,8 +45,10 @@ Configure sound generation environment
 Layers
 ------
 
+Allen Moore
 
-
+https://www.youtube.com/watch?v=IIqix9CsuUk
+https://www.youtube.com/watch?v=X_DPeZv8OvA
 
 
 Songs 
@@ -132,6 +134,22 @@ Getting everything setup nicely around sound is a nightmare. Having messed aroun
 4/ remove all pesky plugins which introduce latency
 5/ configure negative 25ms and latency within around 5ms
 
+Break Programming
+-----------------
+
+definitely use 16 lpb, and use ghost snares (snares w/ vol column at like 10-40) and shuffles to fill out space. and try to create a call & response relationship between the kicks and snares. and just pay attention to how good jungle songs do their drums, like where exactly they put the snares etc., and try to learn from that. also try layering different breaks and bringing in other breaks for fills
+
+
+ or chop it up and reprogram it so each sound has its own track (to process). hat, kick, snare, whatever. 
+
+
+split the break into three bands, hi, mid, & lows. process each one to taste then blend them together.
+
+
+Matrix
+------
+
+https://www.untergeek.de/howto/oberheim-matrix-1000/oberheim-matrix-1000-firmware-v1-20/#Why_you_needed_to_buy_a_chip_8211_and_why_you_need_to_open_the_synth
 
 
 White noise and ambience
@@ -160,6 +178,7 @@ https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01036/full
    :caption: Contents:
 
    ./pieces/one
+   ./pieces/three
    ./pieces/four
 
 .. _FSOL: http://fsolnews.blogspot.com/

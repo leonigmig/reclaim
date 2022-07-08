@@ -9,8 +9,8 @@ default: .venv
 
 .PHONY: view
 view:
-	open http://localhost:8888/
-	cd docs/; python -m SimpleHTTPServer 8888
+	open http://localhost:8000/
+	cd docs/; python3 -m http.server
 
 .venv:
 	python3 -m venv .venv
