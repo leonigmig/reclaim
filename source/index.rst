@@ -3,14 +3,13 @@ Reclaim leonigmig
 
 A journey from millennial claustrophobia to open-ended cosmic consciousness.
 
-.. image:: /_static/waterfall.png
+.. image:: /_static/opening.png
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Starting points:
 
    ./pages/claustrophobia
-   ./pages/rebirth
-   ./pages/escapism
+   ./pages/escape-and-rebirth/escapism
+   ./pages/phenomenology
    ./pages/production
-
