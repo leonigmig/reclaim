@@ -2,22 +2,36 @@
 An account of millenial claustrophobia
 **************************************
 
-The starting point is dystopic claustrophobia.
+The starting point is dystopic claustrophobia. The world is simply everything that is, but we are only able to glimpse tiny slices of it, from a particular angle. 
+
+This leads to the realisation of a unifying cosmic principle of harmonic waves, and growth as more complicated levels of structure supervene.
+
+Technology super-powers. But we cannot predict the consequences reliably. And we get overwhelmed by seeming chaos beyond our control. And we can't control hardly anything.
+
+Trying to control everything is no way out. 
+
+Dystopic claustraphobia is nothing new. The goal is not to revolutionise it. To follow a well trodden, but still dangerous path. But to live in a way that escapes or evades the closing in.
+
 
 ..  youtube:: fd8xV-WIgrE
 
 Time and modernity
 ------------------
 
-The modern world is dominated by the linear conception of time. This is the conceptual trap we humans fell into 350 years ago. The hope of progress entices us, again and again, to endlessly and meaninglessly construct and expand the technological world around us. 
+The modern world is dominated by the linear conception of time. This is the conceptual trap we humans fell into 350 years ago. The *hope of progress* entices us (again and again) to endlessly and meaninglessly construct and expand the technological world around us. 
 
 .. image:: /_static/linear_time.webp
 
-How did it happen? In the bronze age, impoverished people following monotheistic religions had the idea of salvation: a process directed into the future. The spring wound mechanical clocks used in fourteenth century were a prelude to the technological advances of modernity. Newton established time as a quantifiable arrow. And technology paid back in dividends. The wonder of burning coal. The magic of compound interest.
+How did it happen? In the bronze age, impoverished people following monotheistic religions had the idea of salvation: a process directed into the future. The spring wound mechanical clocks used in fourteenth century were a prelude to the technological advances of modernity. Newton established time as a quantifiable arrow. 
+
+The wonder of burning coal.
+---------------------------
+
+By November 1840 the  needs of the terrifying, smoke belching railway had synchonised time across the whole of England. Today everything is needlessly synchronised in a dystopia of unrestrained technology, Internet of corporate interests, attention hijack, disinformation, misinformation and trivia.
 
 .. image:: /_static/blackcountrynight.jpg
 
-By November 1840 the  needs of the terrifying, smoke belching railway had synchonised time across the whole of England. Today everything is needlessly synchronised in a dystopia of unrestrained technology, Internet of corporate interests, attention hijack, disinformation, misinformation and trivia.
+And technology paid back in dividends.  The magic of compound interest.
 
 Causal mechanisms
 -----------------

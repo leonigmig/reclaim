@@ -10,12 +10,11 @@ Archetypes of rebirth and cultures of escape
 A mind that seeks to to trancend
 --------------------------------
 
+A belief in the essential unity of all creation, the innate goodness of humanity, and the supremacy of insight over logic and experience for the revelation of the deepest truths. 
+
 Those changes which we can bring forth and annul by conscious impulses of the will are to be distinguished from those which are
 instinctive. Resists binary view in favor of a fluidity that moves between the strict empiricist position that that knowledge comes only or primarily from sensory experience
- and a transcendental idealism which holds  a belief in the essential unity of all creation, the innate goodness of humanity, and the supremacy of insight over logic and experience for the revelation 
- of the deepest truths. 
 
- Dystopic claustraphobia is nothing new. The goal is not to revolutionise it. To follow a well trodden, but still dangerous path. But to live in a way that escapes or evades the closing in.
 
 Field Dynamics
 **************
@@ -67,7 +66,7 @@ Bacchus Dance
 .. image:: /_static/fresco.jpg
 
 The ancient greeks used strings, pipes and song to make music together in symposiums - translated as 'drinking together'. In this patriarchal 
-culture, a female slave might be asked to play a song about love on her Aulos for a gathering of men. Participants would give improvisational  
+culture, a female slave might be asked to play a song about love on her Aulos. Participants would give improvisational  
 performances as the party developed.
 
 "Let us hang garlands of celery across our foreheads and call a festival to Dionysus"

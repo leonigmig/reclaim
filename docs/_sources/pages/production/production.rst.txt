@@ -2,187 +2,35 @@
 The production of music
 ***********************
 
-2001 or STFU
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   ./one
-   ./three
-   ./four
-
-Rationale
----------
-
-My process is based on the idea that the mind attends by similtaneously discriminating perceptual objects and integrating them into an experiential whole. It does 
-this across multiple time frames similtaneously - harmonically- the concious (attending wavelengths between 1 and 40 seconds) and the sub-conscious (attending below 
-200ms, upto 600hz - percieving effects in the 20khz range).
-
-* Arrangement / Song (3 mins 30 seconds)
-* Progression (slow 4 - 15-40 seconds)
-* Phrase (slow 2/3 - 2-5 and 5-15 seconds)
-* Rhythm (slow 1 - 2 seconds)
-* Bass (theta)
-* Voices (theta)
-
-My idea is that the concious and the unconcious perceptions are glued together between the sub-consciously integrated bass tone and the conciously integrated rhythmic pattern. Basic 
-repetition and variation sustains interest.
-
-Process
--------
-
-Create a walking skeleton through:
-
-* Configure sonic environment
-* Devise tonality and harmonic structure 
-* Devise groove, motive and hooks
-* Devise phrases, punctuations and elaborations
-* Chart some courses through the labyrinth
-* Mangle and mixdown audio 
-
-Structure
----------
-
-Configure sound generation environment
-
-* Sound generators
-* Control 
-* User interface
-* Programming 
-* Network 
-
-Layers
-------
-
-Allen Moore
-
-https://www.youtube.com/watch?v=IIqix9CsuUk
-https://www.youtube.com/watch?v=X_DPeZv8OvA
-
-
-Songs 
------
-
-Voices with patterns of notes
-- with a fractaline structure (shenker)
-- which refer back the bass tonality 
-
-Upto 3 independent voices - harmony or counterpoint 
-Yet may be multi-timbral
-
-Harmonic series
-
-- Music structure
-  - Arrwngment
-  - Phrases 
-  - Progression 
-  - Resolution 
-
-3 minutes
-engaging beginning
-proceed by addition of parts 
-consistent bass tonality
-connection of bass to rhythm
-introduce chorus, proceed to creccendo
-Harmony, progression and modulation 
-tempo the same
-
-
-Phrases 
--------
-
-Tone, separation, integration and grouping
-
-rhythm
-Syncopation as a cognitive mechanism has been described as a form of violation of metrical expectations
-nueral entrainment and rhythm - perceptual 1.5 seconds - sensitive to it
-metric hierarchy, assymetries, polyrhythms
-syncopation, weak beats, groove and dancing
-
-pitch, 
-
-- Fundamental frequency 
-- Harmonics 
-
-sethares
-
-timbre, 
-timbre as rise time, spectral centoid, spectral flux, noise content
-
-Entrained to 250ms
-------------------
-
-schaffer
-
-- Envelope 
-- Attack log spectral centre 
-- exaption - ear / mouth / vowel / consonent
-- ossicles, tongue
-
-- Vibrato 
-
-
-
-
-balance, evenness, and interonset interval entropy
-
-
-
-Heterarchy
-
-Basic ontology of instrumental capabilities 
-
-Gear and configuration
-----------------------
-
-Getting everything setup nicely around sound is a nightmare. Having messed around a lot here's where I have ended Upto
-
-1/ DT overbridge to bitwig
-2/ USB interface takes all audio 
-3/ all midi turned off just using overbridge
-4/ remove all pesky plugins which introduce latency
-5/ configure negative 25ms and latency within around 5ms
-
-Break Programming
------------------
-
-definitely use 16 lpb, and use ghost snares (snares w/ vol column at like 10-40) and shuffles to fill out space. and try to create a call & response relationship between the kicks and snares. and just pay attention to how good jungle songs do their drums, like where exactly they put the snares etc., and try to learn from that. also try layering different breaks and bringing in other breaks for fills
-
-
- or chop it up and reprogram it so each sound has its own track (to process). hat, kick, snare, whatever. 
-
-
-split the break into three bands, hi, mid, & lows. process each one to taste then blend them together.
-
-
-Matrix
-------
-
-https://www.untergeek.de/howto/oberheim-matrix-1000/oberheim-matrix-1000-firmware-v1-20/#Why_you_needed_to_buy_a_chip_8211_and_why_you_need_to_open_the_synth
-
-
-White noise and ambience
-------------------------
-
-..  youtube:: 8myYyMg1fFE
-
-
-
-
-
-
-
-
-
-http://www.dynamictonality.com/xronomorph.htm
-milne
-
-
-https://journals.sagepub.com/doi/full/10.1177/2059204320938635
-
-https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01036/full
-
+   ./workflow
+   ./tracks/one
+   ./tracks/three
+   ./tracks/four
+   ./styles/breaks
+   ./styles/fsol
+   ./styles/orbital
+   ./styles/tangerine
+   ./styles/virus
+   ./gear/gear
+
+2001 or STFU
+------------
+    1998 or STFU
+        Techno 
+        90s
+        Ambient 
+        Drum and bass 
+    Dreams
+        Tarkovky - mist greenery 
+        Cheesy heaven - blue white
+        Orange nexus - Golden
+        --- 
+        black white spots, and colours - simple, minimalistic, curved edges
+    The chromatic music of the late nineteenth century continues to be shrouded in mystery.
 
 
 .. _FSOL: http://fsolnews.blogspot.com/
