@@ -1,6 +1,7 @@
 **************************
 The phenomenology of sound
 **************************
+This leads to the realisation of a unifying cosmic principle of harmonic waves, and growth as more complicated levels of structure supervene.
 
 Time becomes a loop
 -------------------

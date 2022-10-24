@@ -4,8 +4,6 @@ An account of millenial claustrophobia
 
 The starting point is dystopic claustrophobia. The world is simply everything that is, but we are only able to glimpse tiny slices of it, from a particular angle. 
 
-This leads to the realisation of a unifying cosmic principle of harmonic waves, and growth as more complicated levels of structure supervene.
-
 Technology super-powers. But we cannot predict the consequences reliably. And we get overwhelmed by seeming chaos beyond our control. And we can't control hardly anything.
 
 Trying to control everything is no way out. 

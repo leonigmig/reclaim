@@ -1,15 +1,19 @@
 Workflow
 --------
 
-* Transformation of present into its fulfilment, tension and release
-* repetition and variation sustains interest.
+Two opposing tendencies.
 
-<sub conscious attention forces>
-rhythm four bars long
-percussion loop 8 bars long
-piano part that's 16 bars long
-pad part that's 32 bars long
-<decoration or garnish>
+* Transformation of present into its fulfilment, development of tension and it's release
+* Yet repetition, variation and self-similarity is why we experience as cohesive
+
+*sub conscious attention forces*
+
+* rhythm four bars long
+* percussion loop 8 bars long
+* piano part that's 16 bars long
+* pad part that's 32 bars long
+
+*decoration or garnish*
 
 Each part would have a kind of fill or flourish at the end of it
 when they coincide they create a kind of internal 32 bar structure
